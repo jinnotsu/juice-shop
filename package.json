@@ -168,6 +168,7 @@
     "@types/clarinet": "^0.12.3",
     "@types/compression": "^1.8.1",
     "@types/config": "^3.3.5",
+    "@types/body-parser": "^1.19.6",
     "@types/cookie-parser": "^1.4.10",
     "@types/cors": "^2.8.19",
     "@types/cross-spawn": "^6.0.6",
